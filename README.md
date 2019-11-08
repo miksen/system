@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/miksen/system.svg?branch=master)](https://travis-ci.org/miksen/system)
+
 Launch `system` operating system commands. Supported on Linux and macOS.
 
 This is a wrapper around `system.3`: https://man.openbsd.org/system.3
