@@ -3,7 +3,7 @@ import 'package:system/system.dart';
 
 void main() {
   test('We can open a Url', () {
-    bool result = System.invoke('open http://dart.dev');
+    var result = System.invoke('open http://dart.dev');
     expect(result, equals(true));
   });
 }
