@@ -15,7 +15,7 @@ class System {
 
   // Helper function for dispatching to the relevant command for the current OS.
   static bool _dispatch(String command) {
-    bool result = false;
+    var result = false;
 
     if (Platform.isMacOS) {
       result = systemCmdMacOS(command);
