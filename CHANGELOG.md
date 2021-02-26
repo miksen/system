@@ -1,3 +1,7 @@
+## 0.4.0
+
+- Upgrade to FFI 1.0.0
+
 ## 0.3.0
 
 - Added null safety support.
