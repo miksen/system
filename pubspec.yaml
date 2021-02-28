@@ -2,7 +2,6 @@ name: system
 description: Invoke operating system commands. Exposes `system()` on macOS &
   Linux. Uses `dart:ffi`.
 version: 0.4.0
-author: miksen.dk
 homepage: https://github.com/miksen/system
 
 environment:
