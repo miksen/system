@@ -1,3 +1,7 @@
+## 0.4.1
+
+- Upgrade to Dart 2.12.0 stable.
+
 ## 0.4.0
 
 - Upgrade to FFI 1.0.0
