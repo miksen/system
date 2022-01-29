@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'src/system-command.dart';
+import 'src/system_command.dart';
 
 class System {
   /// Invoke the operating system command [command]. This wraps the macOS &
