@@ -1,4 +1,7 @@
-[![CI status](https://github.com/miksen/system/actions/workflows/ci.yml/badge.svg)](https://github.com/miksen/system/actions/workflows/ci.yml)
+[![Language](https://img.shields.io/badge/language-Dart-blue.svg)](https://dart.dev)
+[![pub package](https://img.shields.io/pub/v/system.svg)](https://pub.dev/packages/system)
+[![pub points](https://badges.bar/system/pub%20points)](https://pub.dev/packages/system/score)
+[![CI status](https://github.com/miksen/system/actions/workflows/ci.yml/badge.svg)](https://github.com/miksen/system/actions/workflows/ci.yml?query=branch%3Amaster)
 
 Launch `system` operating system commands. Supported on Linux and macOS.
 
