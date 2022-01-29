@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/miksen/system.svg?branch=master)](https://travis-ci.org/miksen/system)
+[![CI status](https://github.com/miksen/system/actions/workflows/ci.yml/badge.svg)](https://github.com/miksen/system/actions/workflows/ci.yml)
 
 Launch `system` operating system commands. Supported on Linux and macOS.
 
